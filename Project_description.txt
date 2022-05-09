@@ -1,0 +1,8 @@
+project name : Calculator 
+sources : pyhton , django , html 
+used tools in python : dict , list , tuple , modules 
+used tools in django : urls.py , views.py , settings.py , templates 
+
+description : this is a small Calculator function project which is having three applications like Addition , Subraction , Multiplication
+when the user enters into the website he suppose to see the apps like addition subraction and multiplication when the user clicks the 
+respective app the new page will open and he can perform the respective process for different apps same thing happned for in all apps.
